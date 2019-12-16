@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Shared/GitHub/Flink/last_pred.csv",
+		"/opt/miniconda3/envs/fenicsproject/lib/python3.7/site-packages/torch/nn/cpp.py",
+		"/opt/miniconda3/envs/fenicsproject/lib/python3.7/site-packages/torch/autograd/grad_mode.py",
+		"/Users/marcussvensson/Documents/GitHub/Eurocode-Machine-Learning/fenicsproject.yml",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/bs4/builder/_lxml.py",
+		"/Users/marcussvensson/Library/Python/3.7/lib/python/site-packages/lxml/lxml.etree_api.h",
+		"/Users/marcussvensson/Library/Python/3.7/lib/python/site-packages/lxml/__init__.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/meshio/_gmsh/common.py",
+		"/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/meshio/_gmsh/main.py",
+		"/Users/marcussvensson/Downloads/Miniconda3-latest-MacOSX-x86_64.sh",
+		"/Users/marcussvensson/Documents/GitHub/Eurocode-Machine-Learning/MyFiniteElement/Fenics/elasticity/magnitude000000.vtu",
+		"/Users/marcussvensson/Documents/Dataset/10k_tetmesh_single_items/32770_tetmesh.msh",
+		"/Users/marcussvensson/Downloads/ft06_elasticity.py",
+		"/Users/marcussvensson/Documents/Dataset/32770_tetmesh.msh",
+		"/Users/marcussvensson/Documents/GitHub/Eurocode-Machine-Learning/MyFiniteElement/Fenics/poisson/solution.pvd",
+		"/Users/marcussvensson/Documents/GitHub/Eurocode-Machine-Learning/MyFiniteElement/Fenics/poisson/solution000000.vtu",
+		"/Users/marcussvensson/package-lock.json",
+		"/Users/marcussvensson/Desktop/462540_tetmesh copy.msh",
+		"/Users/marcussvensson/Documents/GitHub/Eurocode-Machine-Learning/GUI/my-app/src/threejs/RenderThreeJS.js",
+		"/Users/marcussvensson/opt/anaconda3/pkgs/boto-2.49.0-py37_0/lib/python3.7/site-packages/boto/pyami/installers/ubuntu/ebs.py",
+		"/Users/marcussvensson/Documents/Dataset/10k_test/37282_tetmesh.xml",
+		"/Users/marcussvensson/Documents/Dataset/10k_test/37282_tetmesh_min_dihedral_angle.xml",
+		"/Users/marcussvensson/Documents/Dataset/10k_test/37282_tetmesh_gmsh:geometrical.xml",
+		"/Users/marcussvensson/Documents/Dataset/10k_test/37282_tetmesh_gmsh:physical.xml",
+		"/Users/marcussvensson/Documents/Dataset/10k_tetmesh/32770_tetmesh.msh",
+		"/Users/marcussvensson/Documents/GitHub/graphSAGE_v2/example_data/toy-ppi-G.json",
+		"/Users/marcussvensson/Documents/GitHub/graphSAGE_v2/example_data/toy-ppi-class_map.json",
+		"/Users/marcussvensson/Documents/GitHub/graphSAGE_v2/example_supervised.sh",
+		"/Users/marcussvensson/Documents/GitHub/GraphSAGE/example_supervised.sh",
+		"/Users/marcussvensson/Documents/Packages/pyOptFEMP1-0.1.0/pyOptFEMP1/__init__.py",
+		"/Users/marcussvensson/Documents/Packages/pyOptFEMP1-0.1.0/pyOptFEMP1/FEM.py",
+		"/Users/marcussvensson/Documents/Dataset/10k_tetmesh_txt/338508_tetmesh.msh",
+		"/Users/marcussvensson/Documents/GitHub/PyMesh/setup.py",
+		"/Users/marcussvensson/Desktop/462540_tetmesh copy.msh.opt",
+		"/Users/marcussvensson/Documents/GitHub/TetWild/include/tetwild/Logger.h",
+		"/Users/marcussvensson/Documents/GitHub/TetWild/include/tetwild/tetwild.h",
+		"/Volumes/NO NAME/PM53_Final/masterCatalog.xml",
+		"/Users/marcussvensson/Documents/GitHub/UFEM-App/main.py",
+		"/Users/marcussvensson/Documents/GitHub/UFEM-App/main_app.kv",
+		"/Users/marcussvensson/Documents/GitHub/UFEM-App/objloader.py",
+		"/Users/marcussvensson/Documents/GitHub/sfepy/test_install.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 734.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lr.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
